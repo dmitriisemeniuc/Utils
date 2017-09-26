@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by dmitrii on 8/1/17.
+ * Created by dmitrii
  */
 
 public class UiUtils {
